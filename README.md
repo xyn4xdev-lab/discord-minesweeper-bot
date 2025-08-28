@@ -18,7 +18,7 @@ A multi-platform Discord bot that lets users play Minesweeper in servers, group 
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/discord-minesweeper-bot.git
+git clone https://github.com/xyn4xdev-lab/discord-minesweeper-bot.git
 cd discord-minesweeper-bot
 npm install
 ````
